@@ -4,251 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdb48da9-9a66-4352-9007-04088d0fb891" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../lesson2-10/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-10/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-10/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-10/.idea/lesson2-10.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-10/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-10/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-10/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-10/spring-app1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-10/spring-app1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-10/spring-app1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-10/spring-app1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-10/spring-app1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-10/spring-app1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-10/spring-app1/src/main/java/ru/catinasw/springcourse/ClassicalMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-10/spring-app1/src/main/java/ru/catinasw/springcourse/JazzMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-10/spring-app1/src/main/java/ru/catinasw/springcourse/Music.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-10/spring-app1/src/main/java/ru/catinasw/springcourse/MusicPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-10/spring-app1/src/main/java/ru/catinasw/springcourse/RockMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-10/spring-app1/src/main/java/ru/catinasw/springcourse/TestSpring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-10/spring-app1/src/main/resources/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-10/spring-app1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-10/spring-app1/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-11/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-11/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-11/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-11/.idea/lesson2-10.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-11/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-11/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-11/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-11/spring-app1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-11/spring-app1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-11/spring-app1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-11/spring-app1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-11/spring-app1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-11/spring-app1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-11/spring-app1/src/main/java/ru/catinasw/springcourse/ClassicalMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-11/spring-app1/src/main/java/ru/catinasw/springcourse/Computer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-11/spring-app1/src/main/java/ru/catinasw/springcourse/JazzMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-11/spring-app1/src/main/java/ru/catinasw/springcourse/Music.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-11/spring-app1/src/main/java/ru/catinasw/springcourse/MusicPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-11/spring-app1/src/main/java/ru/catinasw/springcourse/RockMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-11/spring-app1/src/main/java/ru/catinasw/springcourse/TestSpring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-11/spring-app1/src/main/resources/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-11/spring-app1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-11/spring-app1/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12-hw/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12-hw/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12-hw/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12-hw/.idea/lesson2-10.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12-hw/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12-hw/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12-hw/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12-hw/spring-app1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12-hw/spring-app1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12-hw/spring-app1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12-hw/spring-app1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12-hw/spring-app1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12-hw/spring-app1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12-hw/spring-app1/src/main/java/ru/catinasw/springcourse/ClassicalMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12-hw/spring-app1/src/main/java/ru/catinasw/springcourse/Music.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12-hw/spring-app1/src/main/java/ru/catinasw/springcourse/MusicGenre.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12-hw/spring-app1/src/main/java/ru/catinasw/springcourse/MusicPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12-hw/spring-app1/src/main/java/ru/catinasw/springcourse/RockMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12-hw/spring-app1/src/main/java/ru/catinasw/springcourse/TestSpring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12-hw/spring-app1/src/main/resources/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12-hw/spring-app1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12-hw/spring-app1/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12/.idea/lesson2-10.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12/spring-app1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12/spring-app1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12/spring-app1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12/spring-app1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12/spring-app1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12/spring-app1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12/spring-app1/src/main/java/ru/catinasw/springcourse/ClassicalMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12/spring-app1/src/main/java/ru/catinasw/springcourse/Computer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12/spring-app1/src/main/java/ru/catinasw/springcourse/JazzMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12/spring-app1/src/main/java/ru/catinasw/springcourse/Music.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12/spring-app1/src/main/java/ru/catinasw/springcourse/MusicPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12/spring-app1/src/main/java/ru/catinasw/springcourse/RockMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12/spring-app1/src/main/java/ru/catinasw/springcourse/TestSpring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12/spring-app1/src/main/resources/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12/spring-app1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-12/spring-app1/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/lesson2-10.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/catinasw/springcourse/ClassicalMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/catinasw/springcourse/Computer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/catinasw/springcourse/JazzMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/catinasw/springcourse/Music.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/catinasw/springcourse/MusicPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/catinasw/springcourse/RockMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/catinasw/springcourse/SpringConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/catinasw/springcourse/TestSpring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/musicPlayer.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/.idea/lesson2-10.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/spring-app1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/spring-app1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/spring-app1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/spring-app1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/spring-app1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/spring-app1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/spring-app1/src/main/java/ru/catinasw/springcourse/ClassicalMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/spring-app1/src/main/java/ru/catinasw/springcourse/Computer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/spring-app1/src/main/java/ru/catinasw/springcourse/JazzMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/spring-app1/src/main/java/ru/catinasw/springcourse/Music.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/spring-app1/src/main/java/ru/catinasw/springcourse/MusicPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/spring-app1/src/main/java/ru/catinasw/springcourse/RockMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/spring-app1/src/main/java/ru/catinasw/springcourse/SpringConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/spring-app1/src/main/java/ru/catinasw/springcourse/TestSpring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/spring-app1/src/main/resources/musicPlayer.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/spring-app1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-13/spring-app1/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-3/spring-app1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-3/spring-app1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-3/spring-app1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-3/spring-app1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-3/spring-app1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-3/spring-app1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-3/spring-app1/src/main/java/ru/catinasw/springcourse/TestBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-3/spring-app1/src/main/java/ru/catinasw/springcourse/TestSpring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-3/spring-app1/src/main/resources/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-3/spring-app1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-3/spring-app1/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-5/spring-app1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-5/spring-app1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-5/spring-app1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-5/spring-app1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-5/spring-app1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-5/spring-app1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-5/spring-app1/src/main/java/ru/catinasw/springcourse/ClassicalMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-5/spring-app1/src/main/java/ru/catinasw/springcourse/JazzMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-5/spring-app1/src/main/java/ru/catinasw/springcourse/Music.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-5/spring-app1/src/main/java/ru/catinasw/springcourse/MusicPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-5/spring-app1/src/main/java/ru/catinasw/springcourse/RockMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-5/spring-app1/src/main/java/ru/catinasw/springcourse/TestSpring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-5/spring-app1/src/main/resources/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-5/spring-app1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-5/spring-app1/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-6/spring-app1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-6/spring-app1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-6/spring-app1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-6/spring-app1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-6/spring-app1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-6/spring-app1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-6/spring-app1/src/main/java/ru/catinasw/springcourse/ClassicalMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-6/spring-app1/src/main/java/ru/catinasw/springcourse/JazzMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-6/spring-app1/src/main/java/ru/catinasw/springcourse/Music.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-6/spring-app1/src/main/java/ru/catinasw/springcourse/MusicPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-6/spring-app1/src/main/java/ru/catinasw/springcourse/RockMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-6/spring-app1/src/main/java/ru/catinasw/springcourse/TestSpring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-6/spring-app1/src/main/resources/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-6/spring-app1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-6/spring-app1/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7-hw/spring-app1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7-hw/spring-app1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7-hw/spring-app1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7-hw/spring-app1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7-hw/spring-app1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7-hw/spring-app1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7-hw/spring-app1/src/main/java/ru/catinasw/springcourse/ClassicalMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7-hw/spring-app1/src/main/java/ru/catinasw/springcourse/JazzMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7-hw/spring-app1/src/main/java/ru/catinasw/springcourse/Music.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7-hw/spring-app1/src/main/java/ru/catinasw/springcourse/MusicPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7-hw/spring-app1/src/main/java/ru/catinasw/springcourse/RockMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7-hw/spring-app1/src/main/java/ru/catinasw/springcourse/TestSpring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7-hw/spring-app1/src/main/resources/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7-hw/spring-app1/src/main/resources/musicPlayer.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7-hw/spring-app1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7-hw/spring-app1/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7/spring-app1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7/spring-app1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7/spring-app1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7/spring-app1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7/spring-app1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7/spring-app1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7/spring-app1/src/main/java/ru/catinasw/springcourse/ClassicalMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7/spring-app1/src/main/java/ru/catinasw/springcourse/JazzMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7/spring-app1/src/main/java/ru/catinasw/springcourse/Music.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7/spring-app1/src/main/java/ru/catinasw/springcourse/MusicPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7/spring-app1/src/main/java/ru/catinasw/springcourse/RockMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7/spring-app1/src/main/java/ru/catinasw/springcourse/TestSpring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7/spring-app1/src/main/resources/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7/spring-app1/src/main/resources/musicPlayer.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7/spring-app1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-7/spring-app1/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-8/spring-app1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-8/spring-app1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-8/spring-app1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-8/spring-app1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-8/spring-app1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-8/spring-app1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-8/spring-app1/src/main/java/ru/catinasw/springcourse/ClassicalMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-8/spring-app1/src/main/java/ru/catinasw/springcourse/JazzMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-8/spring-app1/src/main/java/ru/catinasw/springcourse/Music.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-8/spring-app1/src/main/java/ru/catinasw/springcourse/MusicPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-8/spring-app1/src/main/java/ru/catinasw/springcourse/RockMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-8/spring-app1/src/main/java/ru/catinasw/springcourse/TestSpring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-8/spring-app1/src/main/resources/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-8/spring-app1/src/main/resources/musicPlayer.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-8/spring-app1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-8/spring-app1/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-9/spring-app1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-9/spring-app1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-9/spring-app1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-9/spring-app1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-9/spring-app1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-9/spring-app1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-9/spring-app1/src/main/java/ru/catinasw/springcourse/ClassicalMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-9/spring-app1/src/main/java/ru/catinasw/springcourse/JazzMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-9/spring-app1/src/main/java/ru/catinasw/springcourse/Music.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-9/spring-app1/src/main/java/ru/catinasw/springcourse/MusicPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-9/spring-app1/src/main/java/ru/catinasw/springcourse/RockMusic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-9/spring-app1/src/main/java/ru/catinasw/springcourse/TestSpring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-9/spring-app1/src/main/resources/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-9/spring-app1/src/main/resources/musicPlayer.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-9/spring-app1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson2-9/spring-app1/src/main/webapp/index.jsp" beforeDir="false" />
-    </list>
+    <list default="true" id="fdb48da9-9a66-4352-9007-04088d0fb891" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -263,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleUserHome" value="$USER_HOME$/goinfre/gradle" />
@@ -284,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "develop",
-    "last_opened_file_path": "/Users/catinasw/projects/IdeaProjects/spring-learn/lesson2-13-hw/spring-app1",
+    "last_opened_file_path": "/Users/catinasw/projects/IdeaProjects/spring-learn/spring-core/lesson2-13-hw/spring-app1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -338,7 +94,8 @@
       <workItem from="1751537765994" duration="1117000" />
       <workItem from="1751541053453" duration="509000" />
       <workItem from="1751544301550" duration="1704000" />
-      <workItem from="1751549527252" duration="1356000" />
+      <workItem from="1751549527252" duration="692000" />
+      <workItem from="1751551291900" duration="789000" />
     </task>
     <servers />
   </component>
