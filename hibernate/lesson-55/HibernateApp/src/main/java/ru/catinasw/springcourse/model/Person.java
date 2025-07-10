@@ -2,9 +2,6 @@ package ru.catinasw.springcourse.model;
 
 import jakarta.persistence.*;
 
-import java.util.ArrayList;
-import java.util.List;
-
 @Entity
 @Table(name = "person")
 public class Person {
@@ -17,8 +14,8 @@ public class Person {
     @Column(name = "age")
     private int age;
 
-    @OneToMany(mappedBy = "owner", cascade = CascadeType.PERSIST)
-    private List<Item> items;
+    @OneToOne(mappedBy = "person", cascade = CascadeType.PERSIST)
+    private Passport passport;
 
     public Person() {
     }
@@ -52,20 +49,13 @@ public class Person {
         this.age = age;
     }
 
-    public List<Item> getItems() {
-        return items;
+    public Passport getPassport() {
+        return passport;
     }
 
-    public void setItems(List<Item> items) {
-        this.items = items;
-    }
-
-    public void addItem(Item item) {
-        if (items == null) {
-            items = new ArrayList<>();
-        }
-        items.add(item);
-        item.setOwner(this);
+    public void setPassport(Passport passport) {
+        this.passport = passport;
+        passport.setPerson(this);
     }
 
     @Override
